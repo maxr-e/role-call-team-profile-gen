@@ -1,0 +1,27 @@
+{
+  "name": "role-call-team-profile-gen",
+  "version": "1.0.0",
+  "description": "Module 10 skills applied to an app that generates a team profile.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxr-e/role-call-team-profile-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxr-e/role-call-team-profile-gen/issues"
+  },
+  "homepage": "https://github.com/maxr-e/role-call-team-profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "jest": "^29.4.3"
+  }
+}
